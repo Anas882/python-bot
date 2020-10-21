@@ -2,7 +2,7 @@ import  discord
 from discord.ext import commands
 
 client = commands.Bot(command_prefix="-")
-Token = "NzY3Nzk4MjU2Nzk2MTcyMzU5.X43J2Q.lLHrOamOs-0btWpPXGpaJ_hgvV4"
+Token = "NzY3Nzk4MjU2Nzk2MTcyMzU5.X43J2Q.qezebuhhYkJON8UCm6zxJAqti9U"
 
 @client.event
 async def on_ready():
