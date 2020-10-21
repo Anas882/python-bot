@@ -96,4 +96,4 @@ async def mute(ctx, member : discord.Member, * , reason = None):
 
 
 
-client.run("NzY3Nzk4MjU2Nzk2MTcyMzU5.X43J2Q.0D6En1NATzAuAZKgwJg4BTwkikc")
+client.run("NzY3Nzk4MjU2Nzk2MTcyMzU5.X43J2Q.u2k8B_mln_wu1_ioS1CUwmw2Y3Y")
